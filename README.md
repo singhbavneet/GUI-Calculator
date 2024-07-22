@@ -1,5 +1,6 @@
 # GUI-Calculator
 ![cal py ss](https://github.com/user-attachments/assets/fa8adc8e-47ff-47a1-8d12-1bfa785ad422)
+
 This is a simple calculator application built using Python's Tkinter library. It provides basic arithmetic operations along with additional functionalities like squaring and square root calculations.
 
 >Features
